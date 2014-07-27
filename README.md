@@ -18,18 +18,21 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Tools
 		* Custom
 		* Private VPN
-		* HAR files
+		* HAR Files
 		* Waterfalls
-	* Principles
-		* Reduce Payload
-		* Minimise Round Trips
-		* Cache Effectively
-		* Low Latency
+	* High Level
+		* Payload
+		* Round Trips
+		* Cache
+		* Compression
+		* Memory
+		* Garbage Collection
+		* FPS
 	* Design
 		* Native UI
 		* Page Style
 		* Minimise Typefaces
-		* Keep your UI Simple
+		* Keep Your Design Simple
 	* Images
 		* Optimise	
 		* Image Formats
@@ -43,11 +46,11 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Pre-processing
 		* Frameworks
 		* CSS Expressions
-		* Animate with care
+		* Animating
 		* Imports
 	* JavaScript
 		* Module Loading
-		* Animate with care
+		* Animating
 		* Reduced Globals
 		* DOM Lookups
 		* Frameworks
