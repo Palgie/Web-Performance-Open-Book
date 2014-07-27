@@ -11,7 +11,7 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 	* Introduction
 		* [What is the Web Performance Open Book](English/Introduction/The Web Performance Open Book.md)
 		* [About the authors](English/Introduction/About the authors.md)
-		* Use case
+		* [Disclaimer](English/Introduction/Disclaimer.md)
 	* Measuring
 		* RUM & Synthetic
 		* Full Stack Monitoring
