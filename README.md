@@ -13,7 +13,7 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* [About the authors](English/Introduction/About the authors.md)
 		* [Disclaimer](English/Introduction/Disclaimer.md)
 	* Measuring
-		* RUM & Synthetic
+		* [RUM & Synthetic](English/Measuring/Rum &amp; Synthetic.md)
 		* Full Stack Monitoring
 		* Tools
 		* Custom
