@@ -72,7 +72,7 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Window Scaling
 	* TLS
 		* TLS Records
-
+	* References
 
 
 # Get involved
