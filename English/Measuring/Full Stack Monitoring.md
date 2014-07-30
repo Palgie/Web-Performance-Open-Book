@@ -17,7 +17,7 @@ Several options exist to make your approach to resolving problems easier and if 
 
 <img src="http://s27.postimg.org/m1b1jmgb7/screen_browser_6cba15f5675559ce259dbaac8dc5afea.jpg" alt=""  width="958"  />
 
-New Relic is a Software Analytics company that makes sense of billions of metrics across millions of apps. 
+New Relic is a Software Analytics company that makes sense of billions of metrics across millions of apps.
 
 [Homepage](http://newrelic.com/)
 
@@ -46,4 +46,4 @@ AppDynamics is built from the ground up for production environments that are hig
 
 SolarWinds delivers powerful and affordable IT management and monitoring software to over 100,000 customers worldwide – from Global 1000 enterprises to small businesses.
 
-[Homepage](http://www.appdynamics.com/)
+[Homepage](http://www.solarwinds.com/)
