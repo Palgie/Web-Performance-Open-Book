@@ -17,7 +17,7 @@ Several options exist to make your approach to resolving problems easier and if 
 
 <img src="http://s27.postimg.org/m1b1jmgb7/screen_browser_6cba15f5675559ce259dbaac8dc5afea.jpg" alt=""  width="958"  />
 
-New Relic is a Software Analytics company that offers many different flavours of application tracking.
+New Relic is a Software Analytics company that makes sense of billions of metrics across millions of apps. 
 
 [Homepage](http://newrelic.com/)
 
@@ -31,6 +31,19 @@ New Relic is a Software Analytics company that offers many different flavours of
 
 <img src="http://s30.postimg.org/e1p9vxfi9/Understand_Your_User_Experience_0.png" alt="" width="958" />
 
-New Relic is a Software Analytics company that offers many different flavours of application tracking.
+AppDynamics is built from the ground up for production environments that are highly distributed. It reduces Mean-Time-to-Resolution by 90% and helps App Ops teams gain complete visibility.
+
+[Homepage](http://www.appdynamics.com/)
+
+
+<br /><br />
+
+<a href="http://www.solarwinds.com/">
+  <img src="http://s30.postimg.org/ikagjuukh/Solar_Winds_logo.jpg" alt="" width="200" />
+</a>
+
+<img src="http://s2.postimg.org/uo7f530rt/Solar_Winds.jpg" alt="" width="958" />
+
+SolarWinds delivers powerful and affordable IT management and monitoring software to over 100,000 customers worldwide – from Global 1000 enterprises to small businesses.
 
 [Homepage](http://www.appdynamics.com/)
