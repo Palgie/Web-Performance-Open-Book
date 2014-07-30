@@ -15,7 +15,7 @@ Several options exist to make your approach to resolving problems easier and if 
   <img src="http://s4.postimg.org/4mnyaf0b1/logo_NR_fb.png" alt="New Relic Logo" width="200" />
 </a>
 
-<img src="http://s30.postimg.org/e1p9vxfi9/Understand_Your_User_Experience_0.png" alt=""  width="958"  />
+<img src="http://s27.postimg.org/m1b1jmgb7/screen_browser_6cba15f5675559ce259dbaac8dc5afea.jpg" alt=""  width="958"  />
 
 New Relic is a Software Analytics company that offers many different flavours of application tracking.
 
@@ -29,7 +29,7 @@ New Relic is a Software Analytics company that offers many different flavours of
   <img src="http://s2.postimg.org/jdm69ed2h/90585_2908536012.png" alt="" width="200" />
 </a>
 
-<img src="http://s27.postimg.org/m1b1jmgb7/screen_browser_6cba15f5675559ce259dbaac8dc5afea.jpg" alt="" width="958" />
+<img src="http://s30.postimg.org/e1p9vxfi9/Understand_Your_User_Experience_0.png" alt="" width="958" />
 
 New Relic is a Software Analytics company that offers many different flavours of application tracking.
 
