@@ -7,12 +7,25 @@ Anything from overloaded servers, slow AJAX calls, unoptimised DB queries or jus
 
 Several options exist to make your approach to resolving problems easier and if you're working on a large codebase it's sensible to consider them.
 
+
+## Tools
+
+
 <a href="http://newrelic.com/">
   <img src="http://s4.postimg.org/4mnyaf0b1/logo_NR_fb.png" alt="" width="200" />
 </a>
+
+New Relic is a Software Analytics company that offers many different flavours of application tracking.
+
+[Homepage](http://newrelic.com/)
 
 <br /><br />
 
 <a href="http://www.appdynamics.com/">
   <img src="http://s2.postimg.org/jdm69ed2h/90585_2908536012.png" alt="" width="200" />
 </a>
+
+
+New Relic is a Software Analytics company that offers many different flavours of application tracking.
+
+[Homepage](http://www.appdynamics.com/)
