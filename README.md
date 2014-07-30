@@ -14,9 +14,9 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* [Disclaimer](English/Introduction/Disclaimer.md)
 	* Measuring
 		* [RUM & Synthetic](English/Measuring/RUM%20%26%20Synthetic.md)
-		* Full Stack Monitoring
+		* [Full Stack Monitoring](English/Measuring/Full%20Stack%20Monitoring.md)
 		* Tools
-		* Building Custom Tools
+		* Building Custom Tracking
 		* Private VPN
 		* HAR Files
 		* Waterfalls
@@ -34,7 +34,7 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Minimise Typefaces
 		* Keep Your Design Simple
 	* Images
-		* Optimise	
+		* Optimise
 		* Image Formats
 	* HTML
 		* Blocking Assets
