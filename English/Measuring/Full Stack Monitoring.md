@@ -11,8 +11,6 @@ Several options exist to make your approach to resolving problems easier and if 
   <img src="http://s4.postimg.org/4mnyaf0b1/logo_NR_fb.png" alt="" width="200" />
 </a>
 
-### New Relic
-
 New Relic is a Software Analytics company that offers many different flavours of application tracking.
 
 [Homepage](http://newrelic.com/)
@@ -22,8 +20,6 @@ New Relic is a Software Analytics company that offers many different flavours of
 <a href="http://www.appdynamics.com/">
   <img src="http://s2.postimg.org/jdm69ed2h/90585_2908536012.png" alt="" width="200" />
 </a>
-
-### AppDynamic
 
 New Relic is a Software Analytics company that offers many different flavours of application tracking.
 
