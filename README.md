@@ -18,7 +18,7 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Tools
 		* Building Custom Tracking
 		* Private VPN
-		* HAR Files
+		* [HAR Files](English/Measuring/HAR%20Files.md)
 		* Waterfalls
 	* High Level
 		* Payload
