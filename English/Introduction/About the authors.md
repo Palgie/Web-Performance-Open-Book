@@ -6,6 +6,6 @@ About the authors
 [@philgourley](https://twitter.com/philgourley)
 
 
-Technical Reviewers
+### Technical Reviewers
 
-### Shahzain Badrudin
+Shahzain Badrudin
