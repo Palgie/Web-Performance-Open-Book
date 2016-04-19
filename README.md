@@ -3,7 +3,7 @@ The Web Performance Open Book
 
 This book is aimed at gathering the knowledge of web performance pioneers alongside the experience of fellow Front-end developers, Network engineers, System admins and other specialists to act as an ever evolving source of information for you to help influence your own projects or your place of work.
 
-Practices in this book are those targeted toward HTTP 1.0 and not recommended for those using the SPDY protocol.
+Practices in this book are those targeted toward HTTP 1.0 and not recommended for those using HTTP2.0 or SPDY protocol.
 
 # Chapters
 
@@ -27,26 +27,28 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Compression
 		* Memory
 		* Garbage Collection
-		* FPS
+		* FPS Rooftop
 	* Design
 		* Native UI
+		* Native Behaviors
 		* Page Style
-		* Minimise Typefaces
+		* Minimize Typefaces
 		* Keep Your Design Simple
 	* Images
-		* Optimise
+		* Optimize
 		* Image Formats
+		* Caching
 	* HTML
 		* Blocking Assets
 		* Reduce DOM Tree
 	* CSS
-		* "Object Orientated" CSS
-		* Minify
-		* Critical CSS
-		* Pre-processing
-		* Frameworks
-		* CSS Expressions
-		* Animating
+		* Architecture Matters
+		* Minify Everything
+		* Prioritize Critical CSS
+		* Pre-processing Pitfalls
+		* No frameworks
+		* Avoid CSS Expressions
+		* Animating For Speed
 		* Imports
 	* JavaScript
 		* Module Loading
