@@ -28,7 +28,7 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Memory
 		* Garbage Collection
 		* FPS Rooftop
-	* Design
+	* [Design](English/Design/Design.md)
 		* Native UI
 		* Native Behaviors
 		* Page Style
@@ -41,8 +41,8 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 	* HTML
 		* Blocking Assets
 		* Reduce DOM Tree
-	* CSS
-		* Architecture Matters
+	* [CSS](English/CSS/CSS.md)
+		* [Architecture Matters](English/CSS/CSS.md#Architecture Matters)
 		* Minify Everything
 		* Prioritize Critical CSS
 		* Pre-processing Pitfalls
@@ -59,7 +59,6 @@ Practices in this book are those targeted toward HTTP 1.0 and not recommended fo
 		* Architecture
 	* Database
 		* Memcache
-		* MySQL Tuning
 	* Server / Networking
 		* Effective Asset Caching
 		* Redirects
