@@ -12,6 +12,7 @@ We are currently looking for:
 - Authors interested in contributing to the Web Performance Open Book.
 - Bloggers or authors with prior publications that wish to share their relevant work(s).
 - Translators for any language
+- Sponsors
 
 ## License
 
