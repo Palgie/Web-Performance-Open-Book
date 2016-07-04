@@ -137,7 +137,7 @@ Here are some examples of things to be careful of:
 }
 ```
 
-*Agressive misuse of reusability*
+**Agressive misuse of reusability**
 
 ...
 
