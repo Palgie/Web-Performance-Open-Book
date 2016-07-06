@@ -22,7 +22,7 @@ Are a few that you should care about when it comes to performance.
 
 #### Namespace clarity
 
-When your fellow developers are thinking about naming their CSS it's very common for them to overlook or just ignore the question of _how will this work in a year?_, _will another developer also want to use this namespace?_ or _is this reusable_. Couple this with the problem of us being humans and forgetting or just not reading a *something thousand* line CSS file and you're in the same problem a lot of developers are in. This is why BEM and other exist, containment and clarity.
+When your fellow developers are thinking about naming their CSS it's very common for them to overlook or just ignore the question of _how will this work in a year?_, _will another developer also want to use this namespace?_ or _is this reusable?_ and if you couple this with the problem of being humans. Forgetting. Not reading a *something thousand* line CSS file or deadline pressure, then you're in the same problem a lot of developers are in. This is why BEM and other exist, containment and clarity.
 
 How does this relate to performance? Well, adding line after line without understanding the relationships between the CSS and the DOM or CSS and the JS results in bloat. It will often have you or other developers chasing their tails trying to make the CSS smaller all the time.
 
@@ -157,3 +157,8 @@ Here are some examples of things to be careful of:
   background-color: black;
 }
 ```
+
+
+**Aggressive misuse of reusability**
+
+Soon

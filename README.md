@@ -5,7 +5,7 @@ This book is aimed at gathering the knowledge of web performance pioneers alongs
 
 The content of this book is aimed to target what is believed to be the most effective solutions in an effort to reduce your research time and to make chapters as shareable as possible.
 
-Be aware that practices in this book are those targeted toward HTTP 1.0 and not recommended for those using HTTP2.0 or SPDY protocol.
+Practices in this book are those targeted toward both HTTP 1.0 and HTTP2.0 protocol.
 
 # Get involved
 
@@ -14,6 +14,7 @@ We are currently looking for:
 - Authors interested in contributing to the Web Performance Open Book.
 - Bloggers or authors with prior publications that wish to share their relevant work(s).
 - Translators for any language
+- Sponsors
 
 ## License
 
