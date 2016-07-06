@@ -1,5 +1,8 @@
 RUM & Synthetic
-=====================================
+=================
+_First Draft_
+
+<br />
 
 While making changes to your website(s) without understanding the direct benefit to your end user is ambitious it should be avoided. Even the most common of best practices could hinder performance if applied incorrectly. Merging some of your content into a single file for example is a great way to reduce HTTP calls but if you're merging large amounts of content that aren't even present for another 3-4 pages down your critical path do you really need these as a blocking asset on your landing page? Understanding how changes effect your customers as a whole is important. Test early and test often.
 

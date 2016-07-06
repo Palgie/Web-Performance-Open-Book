@@ -3,7 +3,9 @@ The Web Performance Open Book
 
 This book is aimed at gathering the knowledge of web performance pioneers alongside the experience of fellow Front-end developers, Network engineers, System admins and other specialists to act as an ever evolving source of information for you to help influence your own projects or your place of work.
 
-Practices in this book are those targeted toward HTTP 1.0 and not recommended for those using HTTP2.0 or SPDY protocol.
+The content of this book is aimed to target what is believed to be the most effective solutions in an effort to reduce your research time and to make chapters as shareable as possible.
+
+Be aware that practices in this book are those targeted toward HTTP 1.0 and not recommended for those using HTTP2.0 or SPDY protocol.
 
 # Get involved
 

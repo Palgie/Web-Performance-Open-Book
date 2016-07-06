@@ -1,5 +1,8 @@
 CSS
-=========================
+=================
+_First Draft_
+
+<br />
 
 ## Architecture Matters
 
@@ -52,6 +55,24 @@ Not like this:
 Understanding what CSS is impacting what area of your website or application, as simple as it sounds is very powerful. Aside from separation and clarity, we should never hope to ask your users to download styles (in the critical render path) from features that aren't visible or in use.
 
 CSS Modules will allow you to situationally and sensibly spread the load across different features, pages or situations when and where it's needed, making your page visible faster and users less frustrated.
+
+## Avoid frameworks
+
+As of today around 1,600 of the 10,000 of Quantcast Top 10k websites are using frameworks such as Bootstrap and Foundation.
+
+Bootstrap weighs in at 121KB minified for CSS only.
+
+Foundation weighs in at 46KB minified for CSS only.
+
+This is prior to your own design, page, feature styles. Having these frameworks set a significant baseline that's not easily removed sets you up for a difficult removal.
+
+## Animating for Speed
+
+Coming Soon
+
+## Reduce Imports
+
+Coming Soon
 
 ## Pre-processor Pitfalls
 
@@ -136,19 +157,3 @@ Here are some examples of things to be careful of:
   background-color: black;
 }
 ```
-
-## Beware frameworks
-
-Coming Soon
-
-## CSS expressions
-
-Coming Soon
-
-## Animating for Speed
-
-Coming Soon
-
-## Reduce Imports
-
-Coming Soon
